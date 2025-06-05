@@ -1,0 +1,4 @@
+Chicken 1.23
+Beef 2.34
+Turkey 3.45
+Lamp 4.99

@@ -1,0 +1,50 @@
+==================================
+||                              ||
+||          BOB SANDWICH        ||
+||                              ||
+==================================
+Welcome to Bob Sandwich shop!
+
+Would you like to make an order Y or N? n
+Thank you for coming, bye!
+
+Would you like to make an order Y or N? y
+
+1. Rye - $1.23
+2. Muffin - $2.34
+3. Sourdough - $3.45
+4. Croissant - $4.56
+
+Please choose your bun: 1
+
+1. American - $1.99
+2. Asiago - $1.99
+3. Blue Cheese - $1.99
+4. Pepper Jack - $2.99
+
+Please choose your cheese: 1
+
+1. Chicken - $1.23
+2. Beef - $2.34
+3. Turkey - $3.45
+4. Lamp - $4.99
+
+Please choose your meat: 1
+
+1. Tomato - $0.75
+2. Onion - $0.63
+3. Lettuce - $0.52
+4. Pickle - $0.99
+5. All
+
+Please choose your vegetables: 1
+Your sandwich is being made. Please wait...
+Your sandwich is ready!
+
+Your sandwich:
+Bun - Rye
+Cheese - American
+Meat - Chicken
+Vegetables - Tomato
+
+Total cost: $5.20
